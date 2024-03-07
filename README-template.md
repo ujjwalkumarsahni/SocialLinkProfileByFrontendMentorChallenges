@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Social Links Profile](https://your-solution-url.com)
-- Live Site URL: [Social Links Profile](https://your-live-site-url.com)
+- Solution URL: [Social Links Profile](https://ujjwalkumarsahni.github.io/SocialLinkProfileByFrontendMentorChallenges/)
+- Live Site URL: [Social Links Profile](https://ujjwalkumarsahni.github.io/SocialLinkProfileByFrontendMentorChallenges/)
 
 ## My process
 
@@ -96,7 +96,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Social Links Profile](https://www.your-site.com)
+- Website - [Social Links Profile](https://ujjwalkumarsahni.github.io/SocialLinkProfileByFrontendMentorChallenges/)
 - Frontend Mentor - [@ujjwalkumarsahni](https://www.frontendmentor.io/profile/ujjwalkumarsahni)
 
 
